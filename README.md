@@ -1,23 +1,9 @@
-# String-Repeat
 
-> 1. Fork+clone this repo
-> 2. Set your gh-pages to build from master branch
-> 3. Put a link to the tests in your repo's description
-> 4. Choose a Codewar Kata to study
-> 5. Go through the repo and fill in every blank
-> 6. Publish and include this repo in your Codewar Gallery
-
-
-# [<challenge name>](https://www.codewars.com/kata/<challenge name>)
-
-Explain the challenge as completely as you can.
-
-<function name>: Function
-* Args: (how many args does this function take?)
-  * (List each arg, it's type, and it's purpose)
-* Return: (what type does this function return?)
-  * (Describe the return value)
-* Behavior: (What does this function do?)
+solution: Function
+* Args: 2 args
+* number and string
+* Return: returns a string
+* Behavior: repeats the string.
 
 
 ### Index
@@ -100,7 +86,7 @@ Things I struggled with:
 * 
 * 
 
-My study goals and stragegies:
+My study goals and stragegies: what did I learn and how to apply for the future cases. 
 * 
 * 
 * 
